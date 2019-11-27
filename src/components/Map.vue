@@ -1,9 +1,9 @@
 <template>
   <div>
     <mapbox
-      access-token="pk.eyJ1IjoiYWRyaWFudGVsbCIsImEiOiJjazNiMWF6ZDMwZWhmM25vMWNzMWwwMjc1In0.FTncNffkWs27hDOvTFkPiw"
+      access-token="pk.eyJ1Ijoib29leWdvb2V5IiwiYSI6ImNrM2FtYXN1aTBhMnAzbW8xdncyZzh3cmUifQ.IRzWb-nPJVbVNiw1LamD1w"
       :map-options="{
-        style: 'mapbox://styles/adriantell/ck3b3pk3x1k0e1co40bz291w7',
+        style: 'mapbox://styles/ooeygooey/ck3gd9myv00nd1ckb6sgvh3d6',
         center: [-96, 37.8],
         zoom: 3,
       }"
